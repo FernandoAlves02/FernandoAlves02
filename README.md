@@ -1,39 +1,40 @@
-## 👋 Hi there!
+## Hi there 👋!
 
-I'm currently starting my journey into software development 🚀
-Right now, I'm in the early stages of learning and exploring the fundamentals of programming and tools like Git and GitHub.
+I'm an aspiring Software Engineer at the beginning of my journey in tech.
+Currently, I'm building my foundation in programming and learning how to use tools like Git and GitHub for the first time.
 
-## 🌱 What I'm doing
+## 💻 What I Know So Far
 
-1. Studying the basics of software development
+1. HTML & CSS — creating basic web pages and layouts
 
-2. Learning how to use Git and GitHub
+2. JavaScript — learning core concepts and interactivity
 
-3. Building small projects to practice and improve
+3. C# (basic) — experimenting through game development in Unity
+
+## 🎮 Side Project
+
+I've been working on a small 2D game using the Unity Engine (still in progress).
+It's been a great way to explore programming logic and get hands-on experience with C#.
+
+## 🌱 Currently Learning
+
+1. Version control with Git & GitHub
+
+2. Improving my JavaScript skills
+
+3. Strengthening programming fundamentals
 
 ## 🎯 Goals
 
-1. Develop solid programming skills
+1. Grow into a skilled Software Engineer
 
-2. Understand best practices in coding
+2. Build and complete meaningful projects
 
-3. Contribute to projects in the future
+3. Continuously learn and improve
 
-## 📌 About this profile
+##📌 About This Profile
 
-This is a work in progress! As I learn new technologies and improve my skills, I'll keep updating this profile and adding new projects.
+This is just the beginning.
+I'll keep updating this profile as I learn new technologies, improve my skills, and progress in my journey.
 
-<!--
-**FernandoAlves02/FernandoAlves02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Thanks for visiting 🫶!
