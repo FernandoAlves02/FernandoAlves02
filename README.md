@@ -1,9 +1,9 @@
-## Hi there 👋!
+### Hi there 👋!
 
 I'm an aspiring Software Engineer at the beginning of my journey in tech.
 Currently, I'm building my foundation in programming and learning how to use tools like Git and GitHub for the first time.
 
-## 💻 What I Know So Far
+### 💻 What I Know So Far
 
 1. HTML & CSS — creating basic web pages and layouts
 
@@ -11,12 +11,12 @@ Currently, I'm building my foundation in programming and learning how to use too
 
 3. C# (basic) — experimenting through game development in Unity
 
-## 🎮 Side Project
+### 🎮 Side Project
 
 I've been working on a small 2D game using the Unity Engine (still in progress).
 It's been a great way to explore programming logic and get hands-on experience with C#.
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
 1. Version control with Git & GitHub
 
@@ -24,7 +24,7 @@ It's been a great way to explore programming logic and get hands-on experience w
 
 3. Strengthening programming fundamentals
 
-## 🎯 Goals
+### 🎯 Goals
 
 1. Grow into a skilled Software Engineer
 
@@ -32,9 +32,9 @@ It's been a great way to explore programming logic and get hands-on experience w
 
 3. Continuously learn and improve
 
-##📌 About This Profile
+### 📌 About This Profile
 
 This is just the beginning.
 I'll keep updating this profile as I learn new technologies, improve my skills, and progress in my journey.
 
-##Thanks for visiting 🫶!
+### Thanks for visiting 🫶!
