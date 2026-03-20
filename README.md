@@ -37,4 +37,4 @@ It's been a great way to explore programming logic and get hands-on experience w
 This is just the beginning.
 I'll keep updating this profile as I learn new technologies, improve my skills, and progress in my journey.
 
-## Thanks for visiting 🫶!
+## Thanks for visiting 🫶!!
